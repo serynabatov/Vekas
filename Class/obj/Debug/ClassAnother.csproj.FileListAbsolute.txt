@@ -1,0 +1,12 @@
+C:\Users\Игорь\Downloads\ClassAnother\bin\Debug\ClassAnother.exe.config
+C:\Users\Игорь\Downloads\ClassAnother\bin\Debug\ClassAnother.exe
+C:\Users\Игорь\Downloads\ClassAnother\bin\Debug\ClassAnother.pdb
+C:\Users\Игорь\Downloads\ClassAnother\obj\Debug\ClassAnother.csprojAssemblyReference.cache
+C:\Users\Игорь\Downloads\ClassAnother\obj\Debug\ClassAnother.exe
+C:\Users\Игорь\Downloads\ClassAnother\obj\Debug\ClassAnother.pdb
+C:\Users\Игорь\Downloads\Class\bin\Debug\ClassAnother.exe.config
+C:\Users\Игорь\Downloads\Class\bin\Debug\ClassAnother.exe
+C:\Users\Игорь\Downloads\Class\bin\Debug\ClassAnother.pdb
+C:\Users\Игорь\Downloads\Class\obj\Debug\ClassAnother.csprojAssemblyReference.cache
+C:\Users\Игорь\Downloads\Class\obj\Debug\ClassAnother.exe
+C:\Users\Игорь\Downloads\Class\obj\Debug\ClassAnother.pdb
